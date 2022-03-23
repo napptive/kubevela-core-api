@@ -22,9 +22,9 @@ import (
 	sync "sync"
 	time "time"
 
-	versioned "github.com/oam-dev/kubevela-core-api/pkg/generated/client/clientset/versioned"
-	coreoamdev "github.com/oam-dev/kubevela-core-api/pkg/generated/client/informers/externalversions/core.oam.dev"
-	internalinterfaces "github.com/oam-dev/kubevela-core-api/pkg/generated/client/informers/externalversions/internalinterfaces"
+	versioned "github.com/napptive/kubevela-core-api/pkg/generated/client/clientset/versioned"
+	coreoamdev "github.com/napptive/kubevela-core-api/pkg/generated/client/informers/externalversions/core.oam.dev"
+	internalinterfaces "github.com/napptive/kubevela-core-api/pkg/generated/client/informers/externalversions/internalinterfaces"
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	runtime "k8s.io/apimachinery/pkg/runtime"
 	schema "k8s.io/apimachinery/pkg/runtime/schema"

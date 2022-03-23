@@ -21,8 +21,8 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/v1alpha2"
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/v1beta1"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/v1alpha2"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/v1beta1"
 
 	"github.com/onsi/gomega/format"
 	"github.com/onsi/gomega/types"

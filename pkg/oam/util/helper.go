@@ -43,12 +43,12 @@ import (
 	"k8s.io/klog/v2"
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/common"
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/condition"
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/v1alpha2"
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/v1beta1"
-	"github.com/oam-dev/kubevela-core-api/pkg/oam"
-	"github.com/oam-dev/kubevela-core-api/pkg/oam/discoverymapper"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/common"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/condition"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/v1alpha2"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/v1beta1"
+	"github.com/napptive/kubevela-core-api/pkg/oam"
+	"github.com/napptive/kubevela-core-api/pkg/oam/discoverymapper"
 )
 
 var (

@@ -21,7 +21,7 @@ import (
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/common"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/common"
 )
 
 // NOTE: json tags are required.  Any new fields you add must have json tags for the fields to be serialized.

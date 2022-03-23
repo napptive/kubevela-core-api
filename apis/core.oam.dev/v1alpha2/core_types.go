@@ -22,10 +22,10 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/util/intstr"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/condition"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/condition"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/common"
-	"github.com/oam-dev/kubevela-core-api/apis/types"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/common"
+	"github.com/napptive/kubevela-core-api/apis/types"
 )
 
 // A WorkloadDefinitionSpec defines the desired state of a WorkloadDefinition.

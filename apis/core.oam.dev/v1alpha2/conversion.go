@@ -24,8 +24,8 @@ import (
 	"k8s.io/klog/v2"
 	"sigs.k8s.io/controller-runtime/pkg/conversion"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/common"
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/v1beta1"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/common"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/v1beta1"
 )
 
 // ApplicationV1alpha2ToV1beta1 will convert v1alpha2 to v1beta1

@@ -21,7 +21,7 @@ package v1alpha2
 import (
 	corev1 "k8s.io/api/core/v1"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/condition"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/condition"
 )
 
 // GetCondition of this ManualScalerTrait.
