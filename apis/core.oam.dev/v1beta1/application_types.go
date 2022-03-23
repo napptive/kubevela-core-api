@@ -23,8 +23,8 @@ import (
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 	"k8s.io/apimachinery/pkg/runtime"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/common"
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/condition"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/common"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/condition"
 )
 
 const (

@@ -40,13 +40,13 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 	"sigs.k8s.io/yaml"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/common"
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/condition"
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/v1alpha2"
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/v1beta1"
-	"github.com/oam-dev/kubevela-core-api/pkg/oam"
-	"github.com/oam-dev/kubevela-core-api/pkg/oam/mock"
-	"github.com/oam-dev/kubevela-core-api/pkg/oam/util"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/common"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/condition"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/v1alpha2"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/v1beta1"
+	"github.com/napptive/kubevela-core-api/pkg/oam"
+	"github.com/napptive/kubevela-core-api/pkg/oam/mock"
+	"github.com/napptive/kubevela-core-api/pkg/oam/util"
 )
 
 func TestLocateParentAppConfig(t *testing.T) {

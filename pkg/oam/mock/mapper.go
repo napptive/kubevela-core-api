@@ -17,7 +17,7 @@ limitations under the License.
 package mock
 
 import (
-	"github.com/oam-dev/kubevela-core-api/pkg/oam/discoverymapper"
+	"github.com/napptive/kubevela-core-api/pkg/oam/discoverymapper"
 
 	"k8s.io/apimachinery/pkg/api/meta"
 	"k8s.io/apimachinery/pkg/runtime/schema"

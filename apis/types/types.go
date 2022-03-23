@@ -16,7 +16,7 @@ limitations under the License.
 
 package types
 
-import "github.com/oam-dev/kubevela-core-api/pkg/oam"
+import "github.com/napptive/kubevela-core-api/pkg/oam"
 
 const (
 	// DefaultKubeVelaReleaseName defines the default name of KubeVela Release

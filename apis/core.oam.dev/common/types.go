@@ -27,9 +27,9 @@ import (
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/condition"
-	"github.com/oam-dev/kubevela-core-api/apis/standard.oam.dev/v1alpha1"
-	"github.com/oam-dev/kubevela-core-api/pkg/oam"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/condition"
+	"github.com/napptive/kubevela-core-api/apis/standard.oam.dev/v1alpha1"
+	"github.com/napptive/kubevela-core-api/pkg/oam"
 )
 
 // Kube defines the encapsulation in raw Kubernetes resource format

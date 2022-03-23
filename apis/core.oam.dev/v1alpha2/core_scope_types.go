@@ -20,9 +20,9 @@ import (
 	corev1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/condition"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/condition"
 
-	"github.com/oam-dev/kubevela-core-api/pkg/oam"
+	"github.com/napptive/kubevela-core-api/pkg/oam"
 )
 
 // HealthStatus represents health status strings.

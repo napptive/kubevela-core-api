@@ -29,10 +29,10 @@ import (
 	"k8s.io/apimachinery/pkg/types"
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
-	"github.com/oam-dev/kubevela-core-api/apis/core.oam.dev/common"
-	"github.com/oam-dev/kubevela-core-api/apis/interfaces"
-	"github.com/oam-dev/kubevela-core-api/pkg/oam"
-	"github.com/oam-dev/kubevela-core-api/pkg/utils/errors"
+	"github.com/napptive/kubevela-core-api/apis/core.oam.dev/common"
+	"github.com/napptive/kubevela-core-api/apis/interfaces"
+	"github.com/napptive/kubevela-core-api/pkg/oam"
+	"github.com/napptive/kubevela-core-api/pkg/utils/errors"
 )
 
 // +kubebuilder:object:root=true

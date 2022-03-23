@@ -19,7 +19,7 @@ package v1alpha1
 import (
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 
-	"github.com/oam-dev/kubevela-core-api/pkg/oam"
+	"github.com/napptive/kubevela-core-api/pkg/oam"
 )
 
 const (
